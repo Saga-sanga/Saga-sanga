@@ -11,6 +11,6 @@
 ### Frameworks
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
-- 💬 Ask me about Mizoram, HTML, CSS and JS
+<!-- - 💬 Ask me about Mizoram, HTML, CSS and JS -->
 <!-- - 📫 How to reach me: ...
 - ⚡ Fun fact: ... -->
