@@ -2,6 +2,7 @@
 
 [![@saga_sanga's Holopin board](https://holopin.me/saga_sanga)](https://holopin.io/@saga_sanga)
 
+📫 You can reach me at: <a href="mailto:recksonk94@gmail.com">recksonk94@gmail.com</a>
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
