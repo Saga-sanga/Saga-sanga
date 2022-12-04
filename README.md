@@ -1,4 +1,5 @@
-## Hi there I'm Reckson Khiangte. Glad to make your acquaintance👋
+<!-- ## Hi there I'm Reckson Khiangte. Glad to make your acquaintance👋 -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FF1E6C&width=435&lines=Hi+there!+I'm+Reckson+Khiangte;Glad+to+make+your+acquaintance%F0%9F%91%8B)](https://git.io/typing-svg)
 
 [![@saga_sanga's Holopin board](https://holopin.me/saga_sanga)](https://holopin.io/@saga_sanga)
 
